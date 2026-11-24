@@ -18,8 +18,6 @@ Discord : rk3588x
 
 Straw page : https://ayoubcoding.straw.page
 
-Spacehey : https://spacehey.com/0xdeadbeef_ayoub
-
 I participated in the Google Devfest'22 at Agadir In December 2022.
 
 # Contribution Chart
